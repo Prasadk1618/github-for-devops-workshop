@@ -1,0 +1,7 @@
+git status
+git init
+git status
+git add .\testing.py
+git status
+git commit -m "add testing file"
+git status
